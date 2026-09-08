@@ -70,6 +70,10 @@ Ce projet nous permet de découvrir les bases de Flutter et de comprendre commen
   <img src="ressources/screenshots/I_Am_Rich.png" width="260" alt="I Am Rich Flutter App">
 </p>
 
+### 📂 Code source
+
+✅ [Voir le code final](https://github.com/OusmanouMamoudou/FlutterA-Z/tree/master/projects/i_am_rich)
+
 ---
 
 ## 🔜 Prochains projets
@@ -256,8 +260,4 @@ Cela m'aide à savoir que ce contenu est utile et me motive à continuer à enri
   Apprendre • Comprendre • Construire
 </p>
 
-### 📂 Code source
 
-✅ [Voir le code final](https://github.com/OusmanouMamoudou/FlutterA-Z/tree/master/projects/i_am_rich)
-
----
