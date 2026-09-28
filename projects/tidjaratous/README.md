@@ -7,7 +7,7 @@ Après avoir découvert les bases de Flutter avec **I Am Rich**, nous allons mai
 L'objectif est de créer progressivement une **carte de visite numérique** pour **TidjaratOus**, contenant notamment le logo de la boutique, ses coordonnées, sa localisation, ses réseaux sociaux et différentes informations de contact.
 
 <p align="center">
-  <img src="../../resources/screenshots/2.png" width="260" alt="Application TidjaratOus Card avec Flutter">
+  <img src="../../ressources/screenshots/2.png" width="260" alt="Application TidjaratOus Card avec Flutter">
 </p>
 
 ---
